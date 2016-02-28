@@ -32,7 +32,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 ### Repository content
 
-README.md - current file
-CodeBook.md - descriptions of the raw data set, tidy dataset and the transformation from raw data to tidy data set
-run_analysis.R - R script file with the steps from raw data to tidy data set
-avg_act_sub.txt - tidy data set obtained from the raw data set processed by running run_analysis.R script
+- README.md - current file
+- CodeBook.md - descriptions of the raw data set, tidy dataset and the transformation from raw data to tidy data set
+- run_analysis.R - R script file with the steps from raw data to tidy data set
+- avg_act_sub.txt - tidy data set obtained from the raw data set processed by running run_analysis.R script
